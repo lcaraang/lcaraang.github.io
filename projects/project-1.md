@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Bannuar.jpg
+image: images/movie.png
 title: Bannuar a Napaay
 permalink: 
 # All dates must be YYYY-MM-DD format!
