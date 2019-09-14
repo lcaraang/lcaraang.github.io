@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "University of Hawaii Honolulu Community College, Honolulu, HI",
-      "area": "Liberal Arts",
+      "area": "Liberal Arts (Spring, 2019)",
       "studyType": "A.A.",
       "startDate": "2017-08",
       "endDate": "2019-05",
@@ -109,14 +109,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  "awards": 
   "references": [
     {
       "name": "Available upon request",
