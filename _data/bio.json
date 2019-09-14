@@ -29,45 +29,21 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Software Engineering",
       "keywords": [
         "",
         ""
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "C",
+        "C++",
+        "Java"
       ]
     }
   ],
@@ -92,8 +68,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Answer phone and email requests, assisting faculty and staff in general equipment operations and troubleshooting",
+        "Update a trouble log to ensure issues are resolved in a timely manner"
       ]
     },
     {
@@ -104,45 +80,28 @@
       "endDate": "2019-03",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Supervise a team to ensure area is neat, clean, organized and safe",
+        "Train employees in game troubleshooting and repairs"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Atherton YMCA",
-      "website": "",
+      "website": "http://www.athertonymca.org/",
       "position": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2018-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
+        "ASB Molokai 2018",
+        "ASB Big Island 2018",
+        "AWB Oahu 2018",
+        "College Camp 2019, Mentor"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
     {
       "title": "",
       "date": "",
