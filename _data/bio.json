@@ -31,7 +31,6 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "",
         ""
       ]
     }
@@ -49,10 +48,20 @@
   ],
   "education": [
     {
+      "institution": "University of Hawaii Honolulu Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2017-08",
+      "endDate": "2019-05",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2019-08-26",
+      "startDate": "2019-08",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -68,7 +77,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Answer phone and email requests, assisting faculty and staff in general equipment operations and troubleshooting",
+        "Answer phone and email requests",
+        "Assist faculty and staff in general equipment operations and troubleshooting",
         "Update a trouble log to ensure issues are resolved in a timely manner"
       ]
     },
