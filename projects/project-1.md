@@ -15,6 +15,6 @@ Our film was put together by the students of UH Manoa's Ilokano program with the
 
 You can watch our film and learn more at our Awan Budget Productions Facebook Page (https://www.facebook.com/awanbudgetproductions/).
 
-Edit
+
 
 
