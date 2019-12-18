@@ -10,7 +10,7 @@ labels:
 
 summary: For our Software Engineering final project, our team created WarriorJam, a web application that aims to connect musicians in the UH community.
 ---
-We, a team of 4, were tasked with producing a solution to the following problem:
+We, a team of 4 students, were tasked with producing a solution to the following problem:
 
 Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. They cannot experience the fun of informal jam sessions which could progress into performing musical groups.
 
