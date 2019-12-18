@@ -16,4 +16,4 @@ Our film was put together by the students of UH Manoa's Ilokano program with the
 
 ![](images/events.png)
 
-You can view the project source code and learn more about it at our Organization GitHub Page (https://warrior-jam.github.io./).
+You can view the project source code and learn more about it at our [Organization GitHub Page](https://warrior-jam.github.io./).
