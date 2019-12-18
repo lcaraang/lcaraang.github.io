@@ -14,6 +14,6 @@ Our film was put together by the students of UH Manoa's Ilokano program with the
 
 <img class="ui medium centered image" src="../images/musicians.png">
 
-![](images/events.png)
+<img class="ui medium centered image" src="../images/events.png">
 
 You can view the project source code and learn more about it at our [Organization GitHub Page](https://warrior-jam.github.io./).
