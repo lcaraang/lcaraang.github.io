@@ -8,9 +8,13 @@ permalink:
 date: 2019-12-17
 labels:
 
-summary: My group produced an Ilokano film that was shown at the Timpuyog Drama and Song Festival.
+summary: For our Software Engineering final project, our team created WarriorJam, a web application that aims to connect musicians in the UH community.
 ---
-Our film was put together by the students of UH Manoa's Ilokano program with the aim of promoting the Ilokano language and culture. We were tasked with creating a film in the Ilokano language with the theme "Superheroes." Our film was inspired by the show Captain Planet and the need to relay the importance of preserving one's culture. We worked collaboratively to write a script, scout locations and gather materials. We appointed roles for directors, actors, film and editing crew based on our strengths. The film became more than just a class project for a grade. Because of this project, I got to try new things such as acting and doing voiceovers. I also met other people who are driven by the same cause and together, we created something that we are all very proud of.
+We, a team of 4, were tasked with producing a solution to the following problem:
+
+Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. They cannot experience the fun of informal jam sessions which could progress into performing musical groups.
+
+Thus, WarriorJam was born. Our web application aims to connect talented students and staff.  The application allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). Users can also share their music content. After creating a profile, users can then browse through other musician profiles and events such as open mic night or band member auditions. Now, students and staff have a site that allows them to contact compatible musicians and find information about upcoming musical events in the community. See below for screenshots of some of the app's pages.
 
 Browse Musicians Page
 <img class="ui image" src="../images/musicians.png">
