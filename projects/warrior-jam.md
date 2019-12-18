@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/drums.png
 title: WarriorJam
 permalink: 
 # All dates must be YYYY-MM-DD format!
