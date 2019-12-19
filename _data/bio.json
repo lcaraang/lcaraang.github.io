@@ -35,11 +35,21 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
-        "Java"
+        "Java",
+        "Javascript",
+        "HTML",
+        "Meteor"
+      ]
+    },
+        {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Git/GitHub"
       ]
     }
   ],
