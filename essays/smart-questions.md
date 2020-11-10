@@ -8,8 +8,6 @@ labels:
   - Learning
 ---
 
-We’ve probably all heard the line “there is no such thing as a dumb question.” How is it then that every day we still come across questions that make us shake our heads in exasperation? My experience in a technical support position proves that “dumb” questions come in many forms and sizes. A typical phone call I encounter at work is a client reporting an issue by saying “the projector isn’t working. Can someone come fix it? Thank you” – not allowing me the chance to ask clarifying questions and troubleshoot over the phone. Too often, a technician is dispatched to a location only to find out that the issue could’ve been easily resolved had the client read the How-to guide or explained the problem clearly over the phone. Furthermore, the technician is taken away from attending to other assignments. Instances like this show that asking the “smart” way would’ve saved time for all parties involved.
-
 The following link takes you to a demonstration of a “smart” question posted on Stack Overflow, an online community for developers.
 
 https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
