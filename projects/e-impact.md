@@ -37,7 +37,7 @@ Add Trip Page
 Community Page
 <img class="ui image" src="../images/community.png">
 
-<h3>Main Takeaways</h>
+<h3>Main Takeaways</h3>
 Although we all contributed to overseeing the whole project, members were also assigned specific tasks and roles. My main task was to create and develop the Community Page. I enjoyed learning and implementing new tools to make the app more interactive. Working on E-Impact also helped me improve my communication skills. I gained confidence in sharing my ideas and appreciated receiving feedback from the team and the client. It was an exciting experience to see our work come to fruition.
 
 You can view the project source code and learn more at our [Organization GitHub Page](https://environment-overflow.github.io./).
