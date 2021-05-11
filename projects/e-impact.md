@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: EImpactLogo.jpg
 title: E-Impact
 permalink: 
 # All dates must be YYYY-MM-DD format!
