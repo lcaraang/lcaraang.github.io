@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: No one's born a computer scientist
+title: On being a computer scientist
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
